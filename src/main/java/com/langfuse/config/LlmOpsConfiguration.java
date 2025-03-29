@@ -5,7 +5,7 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 @EnableConfigurationProperties(LangfuseProperties.class)
-public class LlmOpsConfiguration {
+public class LangfuseConfiguration {
 
 
 

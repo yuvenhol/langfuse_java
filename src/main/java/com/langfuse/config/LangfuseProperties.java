@@ -4,7 +4,7 @@ import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 @Data
-@ConfigurationProperties(prefix = "llmops.langfuse")
+@ConfigurationProperties(prefix = "langfuse")
 public class LangfuseProperties {
     private String publicKey;
     private String secretKey;

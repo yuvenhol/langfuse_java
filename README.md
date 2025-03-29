@@ -1,4 +1,4 @@
-# LLMOps SDK
+# Langfuse-java SDK
 
 [English](#english) | [中文](#chinese)
 
@@ -6,7 +6,7 @@
 ## English
 
 ### Overview
-LLMOps SDK provides seamless integration with LLMOps platforms like Langfuse for efficient prompt management and LLM operations. This SDK supports Spring Boot auto-configuration, making it easy to integrate into your Spring Boot applications and simplifying LLM operations.
+Langfuse-java SDK provides integration with Langfuse for efficient prompt management and LLM operations. This SDK supports Spring Boot auto-configuration, making it easy to integrate into your Spring Boot applications and simplifying LLM operations.
 
 ### Features
 - Spring Boot auto-configuration for quick integration.
@@ -51,7 +51,7 @@ Optional<Prompt> prompt = promptManager.getPrompt("your-prompt-key");
 ## 中文
 
 ### 概述
-LLMOps SDK 提供与Langfuse等LLmOps平台的无缝集成，用于高效的提示词管理和LLM操作等功能。该SDK支持Spring Boot自动配置，可以轻松集成到您的Spring Boot应用程序中，简化LLM操作流程。
+Langfuse-java SDK 提供与Langfuse平台的无缝集成，用于高效的提示词管理和LLM操作等功能。该SDK支持Spring Boot自动配置，可以轻松集成到您的Spring Boot应用程序中，简化LLM操作流程。
 
 ### 特性
 - Spring Boot自动配置，快速集成。
